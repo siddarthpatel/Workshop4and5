@@ -6,6 +6,8 @@ import {postStatusUpdate} from '../server';
 
 export default class Feed extends React.Component {
 
+  
+
   constructor(props) {
    super(props);
    this.state = {
